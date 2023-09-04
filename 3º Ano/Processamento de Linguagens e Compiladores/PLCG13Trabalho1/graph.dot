@@ -1,0 +1,12 @@
+digraph G {
+"Marcirio Chaves" -> "Paulo Rocha"
+"Marcirio Chaves" -> "Luís Cabral"
+"Marcirio Chaves" -> "Luís Sarmento"
+"Marcirio Chaves" -> "Débora Oliveira"
+"Marcirio Chaves" -> "Ana Pinto"
+"Marcirio Chaves" -> "Rosário Silva"
+"Marcirio Chaves" -> "Alberto Simões"
+"Marcirio Chaves" -> "Belinda Maia"
+"Marcirio Chaves" -> "Susana Afonso"
+"Marcirio Chaves" -> "Elisabete Ranchhod"
+}

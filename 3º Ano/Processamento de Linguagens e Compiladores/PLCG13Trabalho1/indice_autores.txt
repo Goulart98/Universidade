@@ -1,0 +1,944 @@
+A
+A. M. Simões (1 entrada):
+ "Text to speech -- a rewriting system approach", speaker:sepln2001, article
+
+
+Alberto  Simões (1 entrada):
+ "An Ontology-Based Approach To Systems Biology Literature
+Retrieval and Processing", epia-bio-2007, inproceedings
+
+
+Alberto M. Simões (4 entrada):
+ "Directory Attribute Grammars", dag2002, inproceedings
+ " Jspell.pm -- um módulo de análise morfológica
+para uso em processamento de linguagem natural", jspell2002, inproceedings
+ "Grabbing parallel corpora from the web", parguess2002, article
+ "{NATools} -- A Statistical Word Aligner Workbench", sepln2003, article
+
+
+Alberto Manuel Brandão Simões (1 entrada):
+ "Parallel Corpora word alignment and applications", teseambs, mastersthesis
+
+
+Alberto Manuel Simões (2 entrada):
+ "{H}istórias de {V}ida + {P}rocessamento {E}strutural = {M", xata:museudapessoa, inproceedings
+ "Engenharia reversa de {HTML} usando tecnologia {XML}", xata:xmldt, inproceedings
+
+
+Alberto Simões (17 entrada):
+ "Alfarrábio: Adding value to an Heterogeneous Site Collection", alfarrabio2001, inproceedings
+ "Avaliação de alinhadores", avalon:avalinha, incollection
+ "Jspellando nas morfolimpíadas: Sobre a participação do {Jspell} nas Morfolimpíadas", avalon:jspell, incollection
+ "Alinhamento de corpora paralelos", cp3a:natools2003, inproceedings
+ "Projecto {TerminUM}", cp3a:terminum2003, inproceedings
+ "Combinatory Examples Extraction for Machine Translation", eamt06, inproceedings
+ "Using Text Mining Techniques for Classical Music Scores
+Analysis", epia-music-2007, inproceedings
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+ "{$T_2O$} --- Recycling Thesauri into a Multilingual Ontology", lrec06, inproceedings
+ "{Museu da Pessoa} -- Arquitectura", mp2001, inproceedings
+ "{NatServer:} A Client-Server Architecture for building Parallel Corpora applications", sepln06, article
+ "Distributed Translation Memories implementation using WebServices", sepln2004, article
+ "Representação em {XML} da {F}loresta {S}intáctica", xata05:fs, inproceedings
+ "Inferência de tipos em documentos {XML}", xata05:tdt, inproceedings
+ "Navegante: um proxy de ordem superior para navegação intusiva", xata06:navegante, inproceedings
+ "{XML::TMX} --- Processamento de Memórias de Tradução de Grandes Dimensões", xata07:xmltmx, inproceedings
+ "{XML::DT} - Down-Translating XML", xmldt2, article
+
+
+Alberto Simões  (2 entrada):
+ "Transcoding for Web Accessibility for the Blind: Semantics
+from Structure", elpub06-blind, inproceedings
+ "Publishing multilingual ontologies: a quick way of obtaining feedback", elpub06-t2o, inproceedings
+
+
+Alda Gancarski (4 entrada):
+ "{AG-based interactive system to retrieve information from XML documents}", GDH06, article
+ "Using data together with metadata to improve XML information access", GFH08, inproceedings
+ "Using data together with metadata to improve XML information access", GH07a, inproceedings
+ "Analyzing the structure of scientific articles to improve information retrieval", GH07b, inproceedings
+
+
+Alda Lopes Gancarski (2 entrada):
+ "A Query-by-Example Approach for XML Querying", FCHGD09a, inproceedings
+ "Information access from XML using semantics and context: application to the Portuguese Emigration Museum", FGH08, inproceedings
+
+
+Alexandre Carvalho (1 entrada):
+ "Transcoding for Web Accessibility for the Blind: Semantics
+from Structure", elpub06-blind, inproceedings
+
+
+Ana Frankenberg-Garcia (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Ana Pinto (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Ana Silva (2 entrada):
+ "Formal Methods for {GI} Systems Development", Gis99, inproceedings
+ "Sobre a Utilização de Metodologias Formais no Desenvolvimento de
+{SIG}", RSea99, inproceedings
+
+
+Anabela Barreiro (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Anne Doucet (1 entrada):
+ "{AG-based interactive system to retrieve information from XML documents}", GDH06, article
+
+
+António R. Fernandes (1 entrada):
+ "Transcoding for Web Accessibility for the Blind: Semantics
+from Structure", elpub06-blind, inproceedings
+
+
+Anália  Lourenço (1 entrada):
+ "An Ontology-Based Approach To Systems Biology Literature
+Retrieval and Processing", epia-bio-2007, inproceedings
+
+
+Anália Lourenço (1 entrada):
+ "Using Text Mining Techniques for Classical Music Scores
+Analysis", epia-music-2007, inproceedings
+
+
+B
+Bastian Cramer (2 entrada):
+ "{VisualLISA}: A Domain Specific Visual Language for Attribute Grammars", OPHCC09, inproceedings
+ "VisualLISA: A Visual Environment to Develop Attribute Grammars", OPHCC2010, article
+
+
+Belinda Maia (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Bruno
+     Martins (1 entrada):
+ "Projecto {TerminUM}", cp3a:terminum2003, inproceedings
+
+
+Bruno Defude (1 entrada):
+ "A Query-by-Example Approach for XML Querying", FCHGD09a, inproceedings
+
+
+Bruno Martins (1 entrada):
+ "{Lingua-Biterm}: um módulo Perl para extracção de terminologia bilingue", cp3a:kvec2003, inproceedings
+
+
+C
+Carlos Ramos (1 entrada):
+ "Data Reduction to Improve Knowledge Extraction", RRH02, incollection
+
+
+Cristina Mota (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+D
+Damijan Rebernak (3 entrada):
+ "Specifying Languages using aspect-oriented approach: AspectLISA", RMHCV06, article
+ "AspectLISA: an aspect-oriented compiler construction system based on attribute grammars", RMHV06, article
+ " Specifying Languages using Aspect-oriented Approach: AspectLISA", RMHVC06, inproceedings
+
+
+Daniela Cruz (1 entrada):
+ " Specifying Languages using Aspect-oriented Approach: AspectLISA", RMHVC06, inproceedings
+
+
+Daniela da Cruz (28 entrada):
+ "Evaluation Criteria of Software Visualization Systems used for Program Comprehension", BCVHU08, inproceedings
+ "Code Inspection Approaches for Program Visualization", CBHP09, article
+ "Comparing Generators for Language-based Tools", CFPBH07d, inproceedings
+ "Slicing wxHaskell modules to derive the User Interface Abstract Model (short paper and poster)", CH07g, inproceedings
+ "Assessing Databases in .Net: comparing approaches", CH09d, inproceedings
+ "Exploring, Visualizing and Slicing the Soul of XML Documents", CH2010a, inproceedings
+ "Alma vs {DDD}", CHP08b, inproceedings
+ "Strategies for Program Inspection and Visualization", CHP08i, inproceedings
+ "Constructing program animations using a pattern-based approach", CHV07, article
+ "Alma versus DDD", CHV08ja, article
+ "Properties Preservation during Transformation (short paper)", CPH08c, inproceedings
+ "A Query-by-Example Approach for XML Querying", FCHGD09a, inproceedings
+ "How to interconnect operational and behavioral views of web applications", FCHV08, inproceedings
+ "Integration of the {ST", FPCH08d, inproceedings
+ "Integration of the {ST} Language in a Model-Based Engineering Environment for Control Systems -- An Approach for Compiler Implementation", FPCH08jb, article
+ "Comparison of XAML and C\# Forms using Cognitive Dimensions Framework", MKCHCPO09, inproceedings
+ "XAGra - An XML Dialect for Attribute Grammars", OHCP09, inproceedings
+ "Visualization of Domain-Specific Programs' Behavior", OPCH09a, inproceedings
+ "Domain Specific Languages: A Theoretical Survey", OPHC09a, inproceedings
+ "{VisualLISA}: A Domain Specific Visual Language for Attribute Grammars", OPHCC09, inproceedings
+ "VisualLISA: A Visual Environment to Develop Attribute Grammars", OPHCC2010, article
+ "Visual{LISA}: a Visual Interface for an Attribute Grammar based Compiler-Compiler (short paper)", PMCH08e, inproceedings
+ "Program Comprehension for Domain-Specific Languages", PMCH08f, inproceedings
+ "Program Comprehension for Domain-Specific Languages (invited paper)", PMCH08j, article
+ "Specifying Languages using aspect-oriented approach: AspectLISA", RMHCV06, article
+ "GraAL - A Grammar Analyzer", cruz09, misc
+ "Applying Program Comprehension Techniques to Karel Robot Programs", oliveira09b, inproceedings
+ "VisualLISA: Visual Programming Environment for Attribute Grammars Specification", oliveira09c, inproceedings
+
+
+Diana Santos (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Débora
+   Oliveira (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+E
+Eckhard Bick (2 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+ "Representação em {XML} da {F}loresta {S}intáctica", xata05:fs, inproceedings
+
+
+Elisabete Cunha (1 entrada):
+ "O Sitio de Pico, Software Educativo para Crianças con Paralisia Cerebral", CHLB07a, inproceedings
+
+
+Elisabete Ferreira (2 entrada):
+ "Integration of the {ST", FPCH08d, inproceedings
+ "Integration of the {ST} Language in a Model-Based Engineering Environment for Control Systems -- An Approach for Compiler Implementation", FPCH08jb, article
+
+
+Elisabete Ranchhod (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Eugénio  Ferreira (1 entrada):
+ "An Ontology-Based Approach To Systems Biology Literature
+Retrieval and Processing", epia-bio-2007, inproceedings
+
+
+Eva Oliveira (2 entrada):
+ "Proposta de um Sistema para Compreensão de Aplicações Web", OHV06, inproceedings
+ "Compreensão de Aplicações Web: O Processo e as Ferramentas", OVH05, inproceedings
+
+
+F
+F. Mário Martins (1 entrada):
+ "Mecanismos para Especificação e Prototipagem de Interfaces
+    Utilizador-Sistema", graminteractivas1990, inproceedings
+
+
+F.L. Neves (2 entrada):
+ "\textsc{Camila}: Formal Software Engineering Supported by Functional Programming", ABNO97a, inproceedings
+ "\textsc{Camila}: Prototyping and Refinement of Constructive Specifications", ABNO97b, inproceedings
+
+
+F\'atima Rodrigues (2 entrada):
+ "Data Cleaning by Reusing Domain Knowledge", ORH06, incollection
+ "Data Reduction to Improve Knowledge Extraction", RRH02, incollection
+
+
+Flávio Xavier Ferreira (4 entrada):
+ "A Query-by-Example Approach for XML Querying", FCHGD09a, inproceedings
+ "Information access from XML using semantics and context: application to the Portuguese Emigration Museum", FGH08, inproceedings
+ "Using OWL to specify and build different views over the Emigration Museum resources", FH08, inproceedings
+ "Using data together with metadata to improve XML information access", GFH08, inproceedings
+
+
+Fábio L. Silva
+ (1 entrada):
+ "Uma Ontologia aplicada a um Ambiente Pervasivo Hospitalar", LGFSSAH08, inproceedings
+
+
+G
+G. Montejano (1 entrada):
+ "A Language Processing Tool for Program Comprehension", BHVUM06, inproceedings
+
+
+Giovana Mendes (1 entrada):
+ "Utilizando uma Base de Dados XML Nativa aplicada ao tratamento de erros num sistema de logs", MSH05, article
+
+
+Giovani Librelotto (6 entrada):
+ "O Uso da Linguagem RS em Robótica", ALHF02, article
+ "TM-Builder: An Ontology Builder based on XML Topic Maps", GRH04, article
+ "Geração automática de interfaces Web para Sistemas de Informação: Metamorphosis", GRH05a, article
+ "Metamorphosis - A Topic Maps Based Environment to Handle Heterogeneous Information Resources", GRH06, article
+ "XCSL: XML Constraint Specification Language", JGRH03, article
+ "XCSL Tutorial", JGRH04, article
+
+
+Giovani Rubert Librelotto (1 entrada):
+ "SMARTCLEAN: uma ferramenta para a limpeza incremental de dados", ORH09a, inproceedings
+
+
+Giovani Rubert Librelotto
+ (5 entrada):
+ "Topic Maps Constraint Languages: understanding and comparing", LARH09, article
+ "Uma Ontologia aplicada a um Ambiente Pervasivo Hospitalar", LGFSSAH08, inproceedings
+ "Navegando na Rede Semântica dos Topic Maps com o Ulisses", LPRH07, inproceedings
+ "Topic Maps Constraint Specification Languages: comparing AsTMa!, OSL, and XTche", LPRH07-TM, inproceedings
+ "A Framework to specify, extract and manage Topic Maps driven by ontologie", LRHGT08, inproceedings
+
+
+Gustavo Arnold (1 entrada):
+ "O Uso da Linguagem RS em Robótica", ALHF02, article
+
+
+H
+Hui Wu (1 entrada):
+ "Automatic Generation of Language-based Tools using LISA System", HVMLGW05, article
+
+
+I
+Iara Augustin
+ (1 entrada):
+ "Uma Ontologia aplicada a um Ambiente Pervasivo Hospitalar", LGFSSAH08, inproceedings
+
+
+Isabel  Rocha (1 entrada):
+ "An Ontology-Based Approach To Systems Biology Literature
+Retrieval and Processing", epia-bio-2007, inproceedings
+
+
+J
+J. Alves de Castro (1 entrada):
+ "Grabbing parallel corpora from the web", parguess2002, article
+
+
+J. Gustavo Rocha (2 entrada):
+ "Alfarrábio: Adding value to an Heterogeneous Site Collection", alfarrabio2001, inproceedings
+ "{Museu da Pessoa} -- Arquitectura", mp2001, inproceedings
+
+
+J. João Almeida (4 entrada):
+ "Combinatory Examples Extraction for Machine Translation", eamt06, inproceedings
+ "Transcoding for Web Accessibility for the Blind: Semantics
+from Structure", elpub06-blind, inproceedings
+ "Publishing multilingual ontologies: a quick way of obtaining feedback", elpub06-t2o, inproceedings
+ "{NatServer:} A Client-Server Architecture for building Parallel Corpora applications", sepln06, article
+
+
+J.B. Barros (5 entrada):
+ "On The Development of \textsc{Camila}", ABBN98, inproceedings
+ "{YaLG} a tool for higher-order grammar specification", Almeida96b, inproceedings
+ "Polytypic Recursion Patterns", Barbosa2000, inproceedings
+ "Estruturas de Dados", estruturasdedados90, techreport
+ "Teoria das Linguagens ", tlc89, techreport
+
+
+J.C. Ramalho (7 entrada):
+ "From {BiBTeX} to {HTML} semantic nets", Almeida96c, techreport
+ "SGML documents: Where does quality go?", RRAH99, article
+ "Algebraic Specification of Documents", Ramalho95, inproceedings
+ "Document Semantics: two approaches", Ramalho96, inproceedings
+ "Algebraic specification of documents", Ramalho98, article
+ "SGML Documents: where does quality go?", SGML97, inproceedings
+ "Adapting Museum Structures for the Web: No Changes Needed!", museums98, inproceedings
+
+
+J.G. Rocha (3 entrada):
+ "SGML documents: Where does quality go?", RRAH99, article
+ "SGML Documents: where does quality go?", SGML97, inproceedings
+ "Adapting Museum Structures for the Web: No Changes Needed!", museums98, inproceedings
+
+
+J.J. Almeida (48 entrada):
+ "On The Development of \textsc{Camila}", ABBN98, inproceedings
+ "\textsc{Camila}: Formal Software Engineering Supported by Functional Programming", ABNO97a, inproceedings
+ "\textsc{Camila}: Prototyping and Refinement of Constructive Specifications", ABNO97b, inproceedings
+ "Dynamic Dictionary = cooperative information sources", AH97, inproceedings
+ "{GPC} -- a Tool for higher-order grammar specification", Almeida94b, inproceedings
+ "Jspell -- um módulo para análise léxica genérica de linguagem natural", Almeida94c, inproceedings
+ "{YaLG} -- extending {DCG} for natural language processing", Almeida95a, inproceedings
+ "Especificação e tratamento de Dicionários", Almeida96a, inproceedings
+ "{YaLG} a tool for higher-order grammar specification", Almeida96b, inproceedings
+ "From {BiBTeX} to {HTML} semantic nets", Almeida96c, techreport
+ "Programação de dicionários", Almeida98, inproceedings
+ "Polytypic Recursion Patterns", Barbosa2000, inproceedings
+ "System Prototyping in \textsc{Camila}", Barbosa95, techreport
+ "\textsc{Camila}: A reference Manual", Barbosa95a, techreport
+ "Growing Up With \textsc{Camila}", Barbosa95b, techreport
+ "Formal Methods for {GI} Systems Development", Gis99, inproceedings
+ "{Natura} - Natural language processing", Natura, techreport
+ "{MAPit} - A tool set for automatically generation of {HTML} Maps", RPA99, inproceedings
+ "SGML documents: Where does quality go?", RRAH99, article
+ "Sobre a Utilização de Metodologias Formais no Desenvolvimento de
+{SIG}", RSea99, inproceedings
+ "Algebraic Specification of Documents", Ramalho95, inproceedings
+ "Document Semantics: two approaches", Ramalho96, inproceedings
+ "Algebraic specification of documents", Ramalho98, article
+ "Etiquetador morfo-sintáctico para o Português", Reis98, inproceedings
+ "SGML Documents: where does quality go?", SGML97, inproceedings
+ "Tratamento automático de termos compostos", Ulisses96, inproceedings
+ "Alfarrábio: Adding value to an Heterogeneous Site Collection", alfarrabio2001, inproceedings
+ "Projecto {TerminUM}", cp3a:terminum2003, inproceedings
+ "Directory Attribute Grammars", dag2002, inproceedings
+ "Estruturas de Dados", estruturasdedados90, techreport
+ "Mecanismos para Especificação e Prototipagem de Interfaces
+    Utilizador-Sistema", graminteractivas1990, inproceedings
+ "Smallbook -- comando para produção de livros em pequena escala", jj2001x, inproceedings
+ "{NLlex} -- a tool to generate lexical analysers for natural language", jj95, techreport
+ "{NLlex} -- a tool to generate lexical analysers for natural language", jj96, article
+ "Manual de Utilizador do {JSpell}", jspell1, techreport
+ " Jspell.pm -- um módulo de análise morfológica
+para uso em processamento de linguagem natural", jspell2002, inproceedings
+ "{Museu da Pessoa} -- Arquitectura", mp2001, inproceedings
+ "Grabbing parallel corpora from the web", parguess2002, article
+ "{NATools} -- A Statistical Word Aligner Workbench", sepln2003, article
+ "Distributed Translation Memories implementation using WebServices", sepln2004, article
+ "Text to speech -- a rewriting system approach", speaker:sepln2001, article
+ "Teoria das Linguagens ", tlc89, techreport
+ "Representação em {XML} da {F}loresta {S}intáctica", xata05:fs, inproceedings
+ "Inferência de tipos em documentos {XML}", xata05:tdt, inproceedings
+ "Navegante: um proxy de ordem superior para navegação intusiva", xata06:navegante, inproceedings
+ "{H}istórias de {V}ida + {P}rocessamento {E}strutural = {M", xata:museudapessoa, inproceedings
+ "Engenharia reversa de {HTML} usando tecnologia {XML}", xata:xmldt, inproceedings
+ "{XML::DT} a Perl Down-Translation module", xmldt99, inproceedings
+
+
+J.J. Almeida
+ (2 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+ "Adapting Museum Structures for the Web: No Changes Needed!", museums98, inproceedings
+
+
+J.João Almeida (1 entrada):
+ "{RENA} - Reconhecedor de Entidades", harem:rena, incollection
+
+
+J.L.  Faria (1 entrada):
+ "Adapting Museum Structures for the Web: No Changes Needed!", museums98, inproceedings
+
+
+J.N. Oliveira (2 entrada):
+ "\textsc{Camila}: Formal Software Engineering Supported by Functional Programming", ABNO97a, inproceedings
+ "\textsc{Camila}: Prototyping and Refinement of Constructive Specifications", ABNO97b, inproceedings
+
+
+Jaime Fonseca (1 entrada):
+ "O Uso da Linguagem RS em Robótica", ALHF02, article
+
+
+Jeff Gray (1 entrada):
+ "Automatic Generation of Language-based Tools using LISA System", HVMLGW05, article
+
+
+Jonas Bulegon Gassen
+ (2 entrada):
+ "Uma Ontologia aplicada a um Ambiente Pervasivo Hospitalar", LGFSSAH08, inproceedings
+ "A Framework to specify, extract and manage Topic Maps driven by ontologie", LRHGT08, inproceedings
+
+
+Jorge Gustavo Rocha (2 entrada):
+ "SGML Documents: Where does quality go?", RARH98, article
+ "Sobre a Utilização de Metodologias Formais no Desenvolvimento de
+{SIG}", RSea99, inproceedings
+
+
+Jorge Rocha (2 entrada):
+ "Formal Methods for {GI} Systems Development", Gis99, inproceedings
+ "{MAPit} - A tool set for automatically generation of {HTML} Maps", RPA99, inproceedings
+
+
+Jorge Sousa Pinto (2 entrada):
+ "Properties Preservation during Transformation (short paper)", CPH08c, inproceedings
+ "Program Comprehension for Domain-Specific Languages", PMCH08f, inproceedings
+
+
+José Almeida (1 entrada):
+ "An Ontology-Based Approach To Systems Biology Literature
+Retrieval and Processing", epia-bio-2007, inproceedings
+
+
+José Carlos Ramalho (10 entrada):
+ "TM-Builder: An Ontology Builder based on XML Topic Maps", GRH04, article
+ "Geração automática de interfaces Web para Sistemas de Informação: Metamorphosis", GRH05a, article
+ "Metamorphosis - A Topic Maps Based Environment to Handle Heterogeneous Information Resources", GRH06, article
+ "XCSL: XML Constraint Specification Language", JGRH03, article
+ "XCSL Tutorial", JGRH04, article
+ "Algebraic Specification of Documents", RAH98, article
+ "SGML Documents: Where does quality go?", RARH98, article
+ "XML \& XSL: da teoria à prática", RH02, book
+ "Qualidade na Publicação Electrónica: como controlá-la?", RH98a, article
+ "{XML::DT} a Perl Down-Translation module", xmldt99, inproceedings
+
+
+José Carlos Ramalho
+ (4 entrada):
+ "Topic Maps Constraint Languages: understanding and comparing", LARH09, article
+ "Navegando na Rede Semântica dos Topic Maps com o Ulisses", LPRH07, inproceedings
+ "Topic Maps Constraint Specification Languages: comparing AsTMa!, OSL, and XTche", LPRH07-TM, inproceedings
+ "A Framework to specify, extract and manage Topic Maps driven by ontologie", LRHGT08, inproceedings
+
+
+José Castro (1 entrada):
+ "Projecto {TerminUM}", cp3a:terminum2003, inproceedings
+
+
+José João Almeida (7 entrada):
+ "Algebraic Specification of Documents", RAH98, article
+ "SGML Documents: Where does quality go?", RARH98, article
+ "Avaliação de alinhadores", avalon:avalinha, incollection
+ "Jspellando nas morfolimpíadas: Sobre a participação do {Jspell} nas Morfolimpíadas", avalon:jspell, incollection
+ "Using Text Mining Techniques for Classical Music Scores
+Analysis", epia-music-2007, inproceedings
+ "{$T_2O$} --- Recycling Thesauri into a Multilingual Ontology", lrec06, inproceedings
+ "{XML::TMX} --- Processamento de Memórias de Tradução de Grandes Dimensões", xata07:xmltmx, inproceedings
+
+
+José João Dias de Almeida (1 entrada):
+ "Dicionários dinâmicos multi-fonte", tesejj, phdthesis
+
+
+L
+L.F. Neves (1 entrada):
+ "On The Development of \textsc{Camila}", ABBN98, inproceedings
+
+
+L.S. Barbosa (7 entrada):
+ "On The Development of \textsc{Camila}", ABBN98, inproceedings
+ "\textsc{Camila}: Formal Software Engineering Supported by Functional Programming", ABNO97a, inproceedings
+ "\textsc{Camila}: Prototyping and Refinement of Constructive Specifications", ABNO97b, inproceedings
+ "Polytypic Recursion Patterns", Barbosa2000, inproceedings
+ "System Prototyping in \textsc{Camila}", Barbosa95, techreport
+ "\textsc{Camila}: A reference Manual", Barbosa95a, techreport
+ "Growing Up With \textsc{Camila}", Barbosa95b, techreport
+
+
+Leandro O. Freitas
+ (1 entrada):
+ "Uma Ontologia aplicada a um Ambiente Pervasivo Hospitalar", LGFSSAH08, inproceedings
+
+
+Leonor Barroca (1 entrada):
+ "A Framework and Patterns for the   Specification of Reactive Systems", BH98, article
+
+
+Luís Cabral (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Luís Costa (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Luís Sarmento (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+M
+M. J. Varanda (1 entrada):
+ "Visualization / Animation of Programs in Alma: obtaining different results", VH03, inproceedings
+
+
+M. Jo\~ao Varanda (4 entrada):
+ "Static and Dynamic Strategies to Understand C Programs by Code Annotation", BHVU07a, inproceedings
+ "Comprensi\'on de Programas por Inspecci\'on Visual y Animaci\'on", BHVU07b, inproceedings
+ "Program Inspection to Incerconnect Behavioral and Operational View for Program Comprehension", BHVU07c, inproceedings
+ "PICS una Herramienta para la Comprensión e Inspección de Programas", BHVU07d, inproceedings
+
+
+M.R. Henriques (1 entrada):
+ "Adapting Museum Structures for the Web: No Changes Needed!", museums98, inproceedings
+
+
+Marcirio Chaves (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Maria João Varanda (14 entrada):
+ "Evaluation Criteria of Software Visualization Systems used for Program Comprehension", BCVHU08, inproceedings
+ "A System for Evaluate and Understand Routing Algorithms", BHV06, inproceedings
+ "Herramientas para la compresión de programas", BHVU06a, inproceedings
+ "Comprensión de Algoritmos de Ruteo", BHVU06b, inproceedings
+ "Simplificando la Comprensión de Programas a través de la Interconnexión de Dominios", BHVU08, inproceedings
+ "A Language Processing Tool for Program Comprehension", BHVUM06, inproceedings
+ "Constructing program animations using a pattern-based approach", CHV07, article
+ "Alma versus DDD", CHV08ja, article
+ "Grammatical Approach to Problem Solving", HKMVZ03, inproceedings
+ "Automatic Generation of Language-based Tools using LISA System", HVMLGW05, article
+ "Grammatical Approach to Problem Solving", KMHVZ04, article
+ "Compreensão de Aplicações Web: O Processo e as Ferramentas", OVH05, inproceedings
+ "Specifying Languages using aspect-oriented approach: AspectLISA", RMHCV06, article
+ "AspectLISA: an aspect-oriented compiler construction system based on attribute grammars", RMHV06, article
+
+
+Maria João Varanda  (1 entrada):
+ "Proposta de um Sistema para Compreensão de Aplicações Web", OHV06, inproceedings
+
+
+Maria João Varanda Pereira (17 entrada):
+ "Inspección de Código para relacionar los Dominios del Problema y Programa para la Comprensión de Programas", BUHV08, inproceedings
+ "Code Inspection Approaches for Program Visualization", CBHP09, article
+ "Comparing Generators for Language-based Tools", CFPBH07d, inproceedings
+ "Alma vs {DDD}", CHP08b, inproceedings
+ "GuessXQ, an inference Web-engine for querying XML Documents", FCHGD09b, inproceedings
+ "How to interconnect operational and behavioral views of web applications", FCHV08, inproceedings
+ "Comparison of XAML and C\# Forms using Cognitive Dimensions Framework", MKCHCPO09, inproceedings
+ "XAGra - An XML Dialect for Attribute Grammars", OHCP09, inproceedings
+ "Visualization of Domain-Specific Programs' Behavior", OPCH09a, inproceedings
+ "Domain Specific Languages: A Theoretical Survey", OPHC09a, inproceedings
+ "{VisualLISA}: A Domain Specific Visual Language for Attribute Grammars", OPHCC09, inproceedings
+ "VisualLISA: A Visual Environment to Develop Attribute Grammars", OPHCC2010, article
+ "Visual{LISA}: a Visual Interface for an Attribute Grammar based Compiler-Compiler (short paper)", PMCH08e, inproceedings
+ "Program Comprehension for Domain-Specific Languages (invited paper)", PMCH08j, article
+ " Specifying Languages using Aspect-oriented Approach: AspectLISA", RMHVC06, inproceedings
+ "Applying Program Comprehension Techniques to Karel Robot Programs", oliveira09b, inproceedings
+ "VisualLISA: Visual Programming Environment for Attribute Grammars Specification", oliveira09c, inproceedings
+
+
+Mario Ber\'on (4 entrada):
+ "Static and Dynamic Strategies to Understand C Programs by Code Annotation", BHVU07a, inproceedings
+ "Comprensi\'on de Programas por Inspecci\'on Visual y Animaci\'on", BHVU07b, inproceedings
+ "Program Inspection to Incerconnect Behavioral and Operational View for Program Comprehension", BHVU07c, inproceedings
+ "PICS una Herramienta para la Comprensión e Inspección de Programas", BHVU07d, inproceedings
+
+
+Mario Berón (1 entrada):
+ "Inspección de Código para relacionar los Dominios del Problema y Programa para la Comprensión de Programas", BUHV08, inproceedings
+
+
+Mario Béron (9 entrada):
+ "Evaluation Criteria of Software Visualization Systems used for Program Comprehension", BCVHU08, inproceedings
+ "A System for Evaluate and Understand Routing Algorithms", BHV06, inproceedings
+ "Herramientas para la compresión de programas", BHVU06a, inproceedings
+ "Comprensión de Algoritmos de Ruteo", BHVU06b, inproceedings
+ "Simplificando la Comprensión de Programas a través de la Interconnexión de Dominios", BHVU08, inproceedings
+ "A Language Processing Tool for Program Comprehension", BHVUM06, inproceedings
+ "Code Inspection Approaches for Program Visualization", CBHP09, article
+ "O Sitio de Pico, Software Educativo para Crianças con Paralisia Cerebral", CHLB07a, inproceedings
+ "GuessXQ, an inference Web-engine for querying XML Documents", FCHGD09b, inproceedings
+
+
+Mario Ricardo Henriques (1 entrada):
+ "Sobre a Utilização de Metodologias Formais no Desenvolvimento de
+{SIG}", RSea99, inproceedings
+
+
+Marjan
+ Mernik (1 entrada):
+ "VisualLISA: Visual Programming Environment for Attribute Grammars Specification", oliveira09c, inproceedings
+
+
+Marjan Mernik (10 entrada):
+ "Grammatical Approach to Problem Solving", HKMVZ03, inproceedings
+ "Automatic Generation of Language-based Tools using LISA System", HVMLGW05, article
+ "Grammatical Approach to Problem Solving", KMHVZ04, article
+ "Comparison of XAML and C\# Forms using Cognitive Dimensions Framework", MKCHCPO09, inproceedings
+ "Visual{LISA}: a Visual Interface for an Attribute Grammar based Compiler-Compiler (short paper)", PMCH08e, inproceedings
+ "Program Comprehension for Domain-Specific Languages (invited paper)", PMCH08j, article
+ "Specifying Languages using aspect-oriented approach: AspectLISA", RMHCV06, article
+ "AspectLISA: an aspect-oriented compiler construction system based on attribute grammars", RMHV06, article
+ " Specifying Languages using Aspect-oriented Approach: AspectLISA", RMHVC06, inproceedings
+ "Applying Program Comprehension Techniques to Karel Robot Programs", oliveira09b, inproceedings
+
+
+Marta Jacinto (2 entrada):
+ "XCSL: XML Constraint Specification Language", JGRH03, article
+ "XCSL Tutorial", JGRH04, article
+
+
+Matej Crepinsek (1 entrada):
+ "Applying Program Comprehension Techniques to Karel Robot Programs", oliveira09b, inproceedings
+
+
+Matheus C. Silveira
+ (1 entrada):
+ "Uma Ontologia aplicada a um Ambiente Pervasivo Hospitalar", LGFSSAH08, inproceedings
+
+
+Miguel  Rocha (1 entrada):
+ "An Ontology-Based Approach To Systems Biology Literature
+Retrieval and Processing", epia-bio-2007, inproceedings
+
+
+Mitja Lenic (1 entrada):
+ "Automatic Generation of Language-based Tools using LISA System", HVMLGW05, article
+
+
+N
+Nuno
+   Cardoso (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Nuno Alberto Silva (1 entrada):
+ "Utilizando uma Base de Dados XML Nativa aplicada ao tratamento de erros num sistema de logs", MSH05, article
+
+
+Nuno Oliveira (8 entrada):
+ "XAGra - An XML Dialect for Attribute Grammars", OHCP09, inproceedings
+ "Visualization of Domain-Specific Programs' Behavior", OPCH09a, inproceedings
+ "Domain Specific Languages: A Theoretical Survey", OPHC09a, inproceedings
+ "{VisualLISA}: A Domain Specific Visual Language for Attribute Grammars", OPHCC09, inproceedings
+ "VisualLISA: A Visual Environment to Develop Attribute Grammars", OPHCC2010, article
+ "GraAL - A Grammar Analyzer", cruz09, misc
+ "Applying Program Comprehension Techniques to Karel Robot Programs", oliveira09b, inproceedings
+ "VisualLISA: Visual Programming Environment for Attribute Grammars Specification", oliveira09c, inproceedings
+
+
+Nuno Oliveira  (1 entrada):
+ "Comparison of XAML and C\# Forms using Cognitive Dimensions Framework", MKCHCPO09, inproceedings
+
+
+P
+P. Henriques (1 entrada):
+ "Visualization / Animation of Programs in Alma: obtaining different results", VH03, inproceedings
+
+
+P. Rangel Henriques (2 entrada):
+ "Alfarrábio: Adding value to an Heterogeneous Site Collection", alfarrabio2001, inproceedings
+ "{Museu da Pessoa} -- Arquitectura", mp2001, inproceedings
+
+
+P.R. Henriques (8 entrada):
+ "Dynamic Dictionary = cooperative information sources", AH97, inproceedings
+ "SGML documents: Where does quality go?", RRAH99, article
+ "Algebraic Specification of Documents", Ramalho95, inproceedings
+ "Document Semantics: two approaches", Ramalho96, inproceedings
+ "Algebraic specification of documents", Ramalho98, article
+ "SGML Documents: where does quality go?", SGML97, inproceedings
+ "Mecanismos para Especificação e Prototipagem de Interfaces
+    Utilizador-Sistema", graminteractivas1990, inproceedings
+ "Adapting Museum Structures for the Web: No Changes Needed!", museums98, inproceedings
+
+
+Paulo Oliveira (1 entrada):
+ "Data Cleaning by Reusing Domain Knowledge", ORH06, incollection
+
+
+Paulo Rocha (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Paulo Silva (1 entrada):
+ "Projecto {TerminUM}", cp3a:terminum2003, inproceedings
+
+
+Pedro Henriques (7 entrada):
+ "How to interconnect operational and behavioral views of web applications", FCHV08, inproceedings
+ "{AG-based interactive system to retrieve information from XML documents}", GDH06, article
+ "Formal Methods for {GI} Systems Development", Gis99, inproceedings
+ "Grammatical Approach to Problem Solving", HKMVZ03, inproceedings
+ "Automatic Generation of Language-based Tools using LISA System", HVMLGW05, article
+ "Grammatical Approach to Problem Solving", KMHVZ04, article
+ "Program Comprehension for Domain-Specific Languages", PMCH08f, inproceedings
+
+
+Pedro Henriques  (1 entrada):
+ "Assessing Databases in .Net: comparing approaches", CH09d, inproceedings
+
+
+Pedro R. Henriques (1 entrada):
+ "Directory Attribute Grammars", dag2002, inproceedings
+
+
+Pedro Rangel  Henriques (1 entrada):
+ "XML \& XSL: da teoria à prática", RH02, book
+
+
+Pedro Rangel Henriques (65 entrada):
+ "O Uso da Linguagem RS em Robótica", ALHF02, article
+ "Evaluation Criteria of Software Visualization Systems used for Program Comprehension", BCVHU08, inproceedings
+ "A Framework and Patterns for the   Specification of Reactive Systems", BH98, article
+ "A System for Evaluate and Understand Routing Algorithms", BHV06, inproceedings
+ "Herramientas para la compresión de programas", BHVU06a, inproceedings
+ "Comprensión de Algoritmos de Ruteo", BHVU06b, inproceedings
+ "Static and Dynamic Strategies to Understand C Programs by Code Annotation", BHVU07a, inproceedings
+ "Comprensi\'on de Programas por Inspecci\'on Visual y Animaci\'on", BHVU07b, inproceedings
+ "Program Inspection to Incerconnect Behavioral and Operational View for Program Comprehension", BHVU07c, inproceedings
+ "PICS una Herramienta para la Comprensión e Inspección de Programas", BHVU07d, inproceedings
+ "Simplificando la Comprensión de Programas a través de la Interconnexión de Dominios", BHVU08, inproceedings
+ "A Language Processing Tool for Program Comprehension", BHVUM06, inproceedings
+ "Inspección de Código para relacionar los Dominios del Problema y Programa para la Comprensión de Programas", BUHV08, inproceedings
+ "Code Inspection Approaches for Program Visualization", CBHP09, article
+ "Comparing Generators for Language-based Tools", CFPBH07d, inproceedings
+ "Slicing wxHaskell modules to derive the User Interface Abstract Model (short paper and poster)", CH07g, inproceedings
+ "Exploring, Visualizing and Slicing the Soul of XML Documents", CH2010a, inproceedings
+ "O Sitio de Pico, Software Educativo para Crianças con Paralisia Cerebral", CHLB07a, inproceedings
+ "Alma vs {DDD}", CHP08b, inproceedings
+ "Strategies for Program Inspection and Visualization", CHP08i, inproceedings
+ "Constructing program animations using a pattern-based approach", CHV07, article
+ "Alma versus DDD", CHV08ja, article
+ "Properties Preservation during Transformation (short paper)", CPH08c, inproceedings
+ "A Query-by-Example Approach for XML Querying", FCHGD09a, inproceedings
+ "GuessXQ, an inference Web-engine for querying XML Documents", FCHGD09b, inproceedings
+ "Information access from XML using semantics and context: application to the Portuguese Emigration Museum", FGH08, inproceedings
+ "Using OWL to specify and build different views over the Emigration Museum resources", FH08, inproceedings
+ "Integration of the {ST", FPCH08d, inproceedings
+ "Integration of the {ST} Language in a Model-Based Engineering Environment for Control Systems -- An Approach for Compiler Implementation", FPCH08jb, article
+ "Using data together with metadata to improve XML information access", GFH08, inproceedings
+ "Using data together with metadata to improve XML information access", GH07a, inproceedings
+ "Analyzing the structure of scientific articles to improve information retrieval", GH07b, inproceedings
+ "TM-Builder: An Ontology Builder based on XML Topic Maps", GRH04, article
+ "Geração automática de interfaces Web para Sistemas de Informação: Metamorphosis", GRH05a, article
+ "Metamorphosis - A Topic Maps Based Environment to Handle Heterogeneous Information Resources", GRH06, article
+ "XCSL: XML Constraint Specification Language", JGRH03, article
+ "XCSL Tutorial", JGRH04, article
+ "Topic Maps Constraint Languages: understanding and comparing", LARH09, article
+ "Uma Ontologia aplicada a um Ambiente Pervasivo Hospitalar", LGFSSAH08, inproceedings
+ "Navegando na Rede Semântica dos Topic Maps com o Ulisses", LPRH07, inproceedings
+ "Topic Maps Constraint Specification Languages: comparing AsTMa!, OSL, and XTche", LPRH07-TM, inproceedings
+ "Comparison of XAML and C\# Forms using Cognitive Dimensions Framework", MKCHCPO09, inproceedings
+ "Utilizando uma Base de Dados XML Nativa aplicada ao tratamento de erros num sistema de logs", MSH05, article
+ "XAGra - An XML Dialect for Attribute Grammars", OHCP09, inproceedings
+ "Proposta de um Sistema para Compreensão de Aplicações Web", OHV06, inproceedings
+ "Visualization of Domain-Specific Programs' Behavior", OPCH09a, inproceedings
+ "Domain Specific Languages: A Theoretical Survey", OPHC09a, inproceedings
+ "{VisualLISA}: A Domain Specific Visual Language for Attribute Grammars", OPHCC09, inproceedings
+ "VisualLISA: A Visual Environment to Develop Attribute Grammars", OPHCC2010, article
+ "Data Cleaning by Reusing Domain Knowledge", ORH06, incollection
+ "SMARTCLEAN: uma ferramenta para a limpeza incremental de dados", ORH09a, inproceedings
+ "Compreensão de Aplicações Web: O Processo e as Ferramentas", OVH05, inproceedings
+ "Visual{LISA}: a Visual Interface for an Attribute Grammar based Compiler-Compiler (short paper)", PMCH08e, inproceedings
+ "Program Comprehension for Domain-Specific Languages (invited paper)", PMCH08j, article
+ "Algebraic Specification of Documents", RAH98, article
+ "SGML Documents: Where does quality go?", RARH98, article
+ "Qualidade na Publicação Electrónica: como controlá-la?", RH98a, article
+ "Specifying Languages using aspect-oriented approach: AspectLISA", RMHCV06, article
+ "AspectLISA: an aspect-oriented compiler construction system based on attribute grammars", RMHV06, article
+ " Specifying Languages using Aspect-oriented Approach: AspectLISA", RMHVC06, inproceedings
+ "Data Reduction to Improve Knowledge Extraction", RRH02, incollection
+ "Sobre a Utilização de Metodologias Formais no Desenvolvimento de
+{SIG}", RSea99, inproceedings
+ "GraAL - A Grammar Analyzer", cruz09, misc
+ "Applying Program Comprehension Techniques to Karel Robot Programs", oliveira09b, inproceedings
+ "VisualLISA: Visual Programming Environment for Attribute Grammars Specification", oliveira09c, inproceedings
+
+
+Pedro Rangel Henriques
+ (1 entrada):
+ "A Framework to specify, extract and manage Topic Maps driven by ontologie", LRHGT08, inproceedings
+
+
+R
+Rachel Aires (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Rafael Teodósio Pereira (1 entrada):
+ "SMARTCLEAN: uma ferramenta para a limpeza incremental de dados", ORH09a, inproceedings
+
+
+Renato Preigschadt de Azevedo
+ (3 entrada):
+ "Topic Maps Constraint Languages: understanding and comparing", LARH09, article
+ "Navegando na Rede Semântica dos Topic Maps com o Ulisses", LPRH07, inproceedings
+ "Topic Maps Constraint Specification Languages: comparing AsTMa!, OSL, and XTche", LPRH07-TM, inproceedings
+
+
+Ricardo Henriques (1 entrada):
+ "Formal Methods for {GI} Systems Development", Gis99, inproceedings
+
+
+Ricardo Reis (1 entrada):
+ "Etiquetador morfo-sintáctico para o Português", Reis98, inproceedings
+
+
+Roberto Uzal (11 entrada):
+ "Evaluation Criteria of Software Visualization Systems used for Program Comprehension", BCVHU08, inproceedings
+ "Herramientas para la compresión de programas", BHVU06a, inproceedings
+ "Comprensión de Algoritmos de Ruteo", BHVU06b, inproceedings
+ "Static and Dynamic Strategies to Understand C Programs by Code Annotation", BHVU07a, inproceedings
+ "Comprensi\'on de Programas por Inspecci\'on Visual y Animaci\'on", BHVU07b, inproceedings
+ "Program Inspection to Incerconnect Behavioral and Operational View for Program Comprehension", BHVU07c, inproceedings
+ "PICS una Herramienta para la Comprensión e Inspección de Programas", BHVU07d, inproceedings
+ "Simplificando la Comprensión de Programas a través de la Interconnexión de Dominios", BHVU08, inproceedings
+ "A Language Processing Tool for Program Comprehension", BHVUM06, inproceedings
+ "Inspección de Código para relacionar los Dominios del Problema y Programa para la Comprensión de Programas", BUHV08, inproceedings
+ "GuessXQ, an inference Web-engine for querying XML Documents", FCHGD09b, inproceedings
+
+
+Rogério Corrêa Turchetti (1 entrada):
+ "A Framework to specify, extract and manage Topic Maps driven by ontologie", LRHGT08, inproceedings
+
+
+Rogério Paulo (2 entrada):
+ "Integration of the {ST", FPCH08d, inproceedings
+ "Integration of the {ST} Language in a Model-Based Engineering Environment for Control Systems -- An Approach for Compiler Implementation", FPCH08jb, article
+
+
+Rosário Silva (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Ruben Fonseca (1 entrada):
+ "How to interconnect operational and behavioral views of web applications", FCHV08, inproceedings
+
+
+Rui Vilela (2 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+ "Representação em {XML} da {F}loresta {S}intáctica", xata05:fs, inproceedings
+
+
+S
+Sandra Lopes (1 entrada):
+ "O Sitio de Pico, Software Educativo para Crianças con Paralisia Cerebral", CHLB07a, inproceedings
+
+
+Susana Afonso (1 entrada):
+ "Linguateca: um centro de recursos distribuído para o processamento
+   computacional da língua portuguesa", linguateca, inproceedings
+
+
+Sónia Moreira (1 entrada):
+ "{Museu da Pessoa} -- Arquitectura", mp2001, inproceedings
+
+
+T
+Tiago Pedroso (1 entrada):
+ "{MAPit} - A tool set for automatically generation of {HTML} Maps", RPA99, inproceedings
+
+
+Tomaz Kosar (4 entrada):
+ "Grammatical Approach to Problem Solving", HKMVZ03, inproceedings
+ "Grammatical Approach to Problem Solving", KMHVZ04, article
+ "Applying Program Comprehension Techniques to Karel Robot Programs", oliveira09b, inproceedings
+ "VisualLISA: Visual Programming Environment for Attribute Grammars Specification", oliveira09c, inproceedings
+
+
+Tomaz Kosar
+ (1 entrada):
+ "Comparison of XAML and C\# Forms using Cognitive Dimensions Framework", MKCHCPO09, inproceedings
+
+
+U
+Ulisses Pinto (3 entrada):
+ "Jspell -- um módulo para análise léxica genérica de linguagem natural", Almeida94c, inproceedings
+ "Tratamento automático de termos compostos", Ulisses96, inproceedings
+ "Manual de Utilizador do {JSpell}", jspell1, techreport
+
+
+V
+Viljem Zumer (2 entrada):
+ "Grammatical Approach to Problem Solving", HKMVZ03, inproceedings
+ "Grammatical Approach to Problem Solving", KMHVZ04, article
+
+
+X
+Xavier Gómez Guinovart (1 entrada):
+ "Distributed Translation Memories implementation using WebServices", sepln2004, article
+
+
+p
+projecto Camila (1 entrada):
+ "\textsc{Camila} - A Platform for Software Mathematical Development", Camila, techreport
+
+
