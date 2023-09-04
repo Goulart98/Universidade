@@ -1,0 +1,9 @@
+t,Nacex,2,7,10,0.12
+t,DHL,6,10,15,0.05
+t,CTT,1,4,7,0.20
+u,JPGoulart@uminho.pt,jpg,João Goulart,jpg,Rua de Cima,123456
+u,TiagoRodriguez@uminho.pt,123,Tiago,tiago,Rua de Baixo,1234567
+c,s->,Marca,Desc,Preco,user,Transportadora,donos,tamanho,atacadores,cor,premium,estado
+s,Nike,AirForce Max,80,jpg,Nacex,5,40,1,1,2,0.5
+s,New balance,Coise,120,tiago,DHL,1,45,1,1,2,1
+

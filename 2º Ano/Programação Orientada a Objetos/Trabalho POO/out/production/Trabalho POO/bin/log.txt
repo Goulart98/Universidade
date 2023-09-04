@@ -1,0 +1,4 @@
+2023.04.10, user1, air jordan, comprar, 500
+2023.04.10, user1, tshirt Linux, comprar, 25
+2023.04.11, transpostador1, 20   --> altera o valor base a comprar por qualquer encomenda
+2023.04.12, user2, mala, alteraValorValorizacao, novoValor
