@@ -1,0 +1,35 @@
+﻿  generator.cpp
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(14,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(11,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(57,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(54,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(157,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(158,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(164,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(165,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(166,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(169,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(170,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(171,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(172,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(173,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(174,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(175,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(176,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(156,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(202,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(225,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(226,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(227,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(228,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(231,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(232,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(233,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(234,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(199,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(264,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(267,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(270,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(273,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pedro Martins\Documents\CG\fase1\code\generator.cpp(273,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  generator.vcxproj -> C:\Users\Pedro Martins\Documents\CG\fase1\code\build\Debug\generator.exe
